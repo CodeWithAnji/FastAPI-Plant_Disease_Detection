@@ -26,7 +26,7 @@ A **web application** to detect plant diseases from leaf images using a pre-trai
 
 1. **Clone the repository**:
 
-
+git clone https://github.com/CodeWithAnji/FastAPI-Plant_Disease_Detection.git
 cd plant-disease-detection
 
 2.  **Install dependencies:**
